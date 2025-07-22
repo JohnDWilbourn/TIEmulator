@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.maynard.scientificcalculator"
-    compileSdk = 34
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.maynard.scientificcalculator"
